@@ -1,0 +1,8 @@
+node_modules
+package.json
+npm-debug.log
+.DS_Store
+*.log
+lib
+coverage
+_book
