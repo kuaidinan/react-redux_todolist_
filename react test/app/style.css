@@ -1,0 +1,6 @@
+.toggle{
+    cursor: pointer;
+}
+.toggle-active{
+    text-decoration: line-through;
+}
